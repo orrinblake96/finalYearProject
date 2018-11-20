@@ -1,2 +1,2 @@
 # finalYearProject
-Keeping track of my final year project.
+Developing a Drum machine using leap-motion for interaction. 
